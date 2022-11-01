@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\bin\Debug\PictureBox kontrola.exe.config
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\bin\Debug\PictureBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\bin\Debug\PictureBox kontrola.pdb
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox_kontrola.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox_kontrola.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.exe
+C:\Users\Piero\Documents\School\NiOP\PictureBox kontrola\obj\Debug\PictureBox kontrola.pdb
